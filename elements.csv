@@ -1,0 +1,119 @@
+atomic_number,symbol,name,mass,density,melting_point,boiling_point,covalent_radius,atomic_radius,ionization,period,group,block,electronegativity,discovery_year,category,state_room_temp,color
+1,H,Hydrogen,1.008,0.0899,14.01,20.28,37,53,13.5984,1,1,s,2.20,1766,nonmetal,gas,colorless
+2,He,Helium,4.0026,0.1786,0.95,4.22,32,31,24.5874,1,18,s,NaN,1868,noble_gas,gas,colorless
+3,Li,Lithium,6.94,0.534,453.69,1560,134,167,5.3917,2,1,s,0.98,1817,alkali_metal,solid,silvery
+4,Be,Beryllium,9.0122,1.85,1560,2742,90,112,9.3227,2,2,s,1.57,1797,alkaline_earth,solid,gray
+5,B,Boron,10.81,2.34,2349,4200,82,87,8.2980,2,13,p,2.04,1808,metalloid,solid,black
+6,C,Carbon,12.011,2.27,3800,4300,77,67,11.2603,2,14,p,2.55,3750 BCE,nonmetal,solid,black
+7,N,Nitrogen,14.007,1.25,63.15,77.36,75,56,14.5341,2,15,p,3.04,1772,nonmetal,gas,colorless
+8,O,Oxygen,15.999,1.43,54.36,90.20,73,48,13.6181,2,16,p,3.44,1774,nonmetal,gas,colorless
+9,F,Fluorine,18.998,1.70,53.53,85.03,71,42,17.4228,2,17,p,3.98,1886,halogen,gas,yellow
+10,Ne,Neon,20.180,0.90,24.56,27.07,69,38,21.5645,2,18,p,NaN,1898,noble_gas,gas,colorless
+11,Na,Sodium,22.990,0.97,370.87,1156,154,190,5.1391,3,1,s,0.93,1807,alkali_metal,solid,silvery
+12,Mg,Magnesium,24.305,1.74,923.00,1363,130,145,7.6462,3,2,s,1.31,1755,alkaline_earth,solid,silvery
+13,Al,Aluminum,26.982,2.70,933.47,2792,118,118,5.9858,3,13,p,1.61,1825,basic_metal,solid,silvery
+14,Si,Silicon,28.085,2.33,1687.00,3538,111,111,8.1517,3,14,p,1.90,1824,metalloid,solid,gray
+15,P,Phosphorus,30.974,1.82,317.30,553.60,106,98,10.4867,3,15,p,2.19,1669,nonmetal,solid,white/red
+16,S,Sulfur,32.06,2.07,388.36,717.87,102,88,10.3600,3,16,p,2.58,2000 BCE,nonmetal,solid,yellow
+17,Cl,Chlorine,35.45,3.21,171.65,239.11,99,79,12.9676,3,17,p,3.16,1774,halogen,gas,yellow-green
+18,Ar,Argon,39.95,1.78,83.80,87.30,97,71,15.7596,3,18,p,NaN,1894,noble_gas,gas,colorless
+19,K,Potassium,39.098,0.89,336.53,1032,196,243,4.3407,4,1,s,0.82,1807,alkali_metal,solid,silvery
+20,Ca,Calcium,40.078,1.55,1115.00,1757,174,194,6.1132,4,2,s,1.00,1808,alkaline_earth,solid,silvery
+21,Sc,Scandium,44.956,2.99,1814.00,3109,144,184,6.5615,4,3,d,1.36,1879,transition_metal,solid,silvery
+22,Ti,Titanium,47.867,4.54,1941.00,3560,136,176,6.8281,4,4,d,1.54,1791,transition_metal,solid,silvery
+23,V,Vanadium,50.942,6.11,2183.00,3680,125,171,6.7462,4,5,d,1.63,1801,transition_metal,solid,silvery
+24,Cr,Chromium,51.996,7.19,2180.00,2944,127,166,6.7665,4,6,d,1.66,1797,transition_metal,solid,silvery
+25,Mn,Manganese,54.938,7.47,1519.00,2334,139,161,7.4340,4,7,d,1.55,1774,transition_metal,solid,silvery
+26,Fe,Iron,55.845,7.87,1811.00,3134,125,156,7.9024,4,8,d,1.83,5000 BCE,transition_metal,solid,silvery
+27,Co,Cobalt,58.933,8.90,1768.00,3200,126,152,7.8810,4,9,d,1.88,1735,transition_metal,solid,silvery
+28,Ni,Nickel,58.693,8.91,1728.00,3186,121,149,7.6398,4,10,d,1.91,1751,transition_metal,solid,silvery
+29,Cu,Copper,63.546,8.96,1357.77,2835,138,145,7.7264,4,11,d,1.90,9000 BCE,transition_metal,solid,red-orange
+30,Zn,Zinc,65.38,7.13,692.68,1180,131,142,9.3942,4,12,d,1.65,1746,transition_metal,solid,bluish
+31,Ga,Gallium,69.723,5.91,302.91,2673,126,136,5.9993,4,13,p,1.81,1875,basic_metal,solid,silvery
+32,Ge,Germanium,72.630,5.32,1211.40,3106,122,125,7.8994,4,14,p,2.01,1886,metalloid,solid,grayish
+33,As,Arsenic,74.922,5.78,1090.00,887,119,114,9.7886,4,15,p,2.18,1250,metalloid,solid,gray
+34,Se,Selenium,78.971,4.81,494.00,958,116,103,9.7524,4,16,p,2.55,1817,nonmetal,solid,gray
+35,Br,Bromine,79.904,3.12,265.95,332.00,114,94,11.8138,4,17,p,2.96,1826,halogen,liquid,red-brown
+36,Kr,Krypton,83.798,3.75,115.79,119.93,110,88,13.9996,4,18,p,3.00,1898,noble_gas,gas,colorless
+37,Rb,Rubidium,85.468,1.53,312.46,961,211,265,4.1771,5,1,s,0.82,1861,alkali_metal,solid,silvery
+38,Sr,Strontium,87.62,2.64,1050.00,1655,192,219,5.6949,5,2,s,0.95,1790,alkaline_earth,solid,silvery
+39,Y,Yttrium,88.906,4.47,1799.00,3609,162,212,6.2173,5,3,d,1.22,1794,transition_metal,solid,silvery
+40,Zr,Zirconium,91.224,6.51,2128.00,4682,148,206,6.6339,5,4,d,1.33,1789,transition_metal,solid,silvery
+41,Nb,Niobium,92.906,8.57,2750.00,5017,137,198,6.7589,5,5,d,1.6,1801,transition_metal,solid,gray
+42,Mo,Molybdenum,95.95,10.28,2896.00,4912,145,190,7.0924,5,6,d,2.16,1781,transition_metal,solid,gray
+43,Tc,Technetium,98.00,11.50,2430.00,4538,156,183,7.1194,5,7,d,1.9,1937,transition_metal,solid,silvery
+44,Ru,Ruthenium,101.07,12.45,2607.00,4423,126,178,7.3605,5,8,d,2.2,1844,transition_metal,solid,silvery
+45,Rh,Rhodium,102.91,12.41,2237.00,3968,135,173,7.4589,5,9,d,2.28,1803,transition_metal,solid,silvery
+46,Pd,Palladium,106.42,12.02,1828.05,3236,131,169,8.3369,5,10,d,2.20,1803,transition_metal,solid,silvery
+47,Ag,Silver,107.87,10.50,1234.93,2435,153,165,7.5762,5,11,d,1.93,5000 BCE,transition_metal,solid,silvery
+48,Cd,Cadmium,112.41,8.65,594.22,1040,148,161,8.9938,5,12,d,1.69,1817,transition_metal,solid,silvery
+49,In,Indium,114.82,7.31,429.75,2345,144,156,5.7864,5,13,p,1.78,1863,basic_metal,solid,silvery
+50,Sn,Tin,118.71,7.27,505.08,2875,141,145,7.3439,5,14,p,1.96,3500 BCE,basic_metal,solid,silvery
+51,Sb,Antimony,121.76,6.69,903.78,1860,138,133,8.6084,5,15,p,2.05,1600 BCE,metalloid,solid,gray
+52,Te,Tellurium,127.60,6.24,722.66,1261,135,123,9.0096,5,16,p,2.1,1782,metalloid,solid,silvery
+53,I,Iodine,126.90,4.93,386.85,457.40,133,115,10.4513,5,17,p,2.66,1811,halogen,solid,dark gray
+54,Xe,Xenon,131.29,5.90,161.36,165.03,130,108,12.1298,5,18,p,2.6,1898,noble_gas,gas,colorless
+55,Cs,Cesium,132.91,1.93,301.59,944,225,298,3.8939,6,1,s,0.79,1860,alkali_metal,solid,golden
+56,Ba,Barium,137.33,3.51,1000.00,2170,198,253,5.2117,6,2,s,0.89,1808,alkaline_earth,solid,silvery
+57,La,Lanthanum,138.91,6.15,1193.00,3737,169,195,5.5769,6,3,f,1.1,1839,lanthanide,solid,silvery
+58,Ce,Cerium,140.12,6.77,1068.00,3716,165,185,5.5387,6,4,f,1.12,1803,lanthanide,solid,gray
+59,Pr,Praseodymium,140.91,6.77,1208.00,3793,165,185,5.473,6,5,f,1.13,1885,lanthanide,solid,yellowish
+60,Nd,Neodymium,144.24,7.01,1297.00,3347,164,185,5.525,6,6,f,1.14,1885,lanthanide,solid,silvery
+61,Pm,Promethium,145.00,7.26,1373.00,3273,163,185,5.582,6,7,f,1.13,1947,lanthanide,solid,silvery
+62,Sm,Samarium,150.36,7.52,1345.00,2067,162,185,5.6437,6,8,f,1.17,1879,lanthanide,solid,silvery
+63,Eu,Europium,151.96,5.24,1099.00,1802,161,185,5.6704,6,9,f,1.2,1901,lanthanide,solid,silvery
+64,Gd,Gadolinium,157.25,7.90,1585.00,3546,159,180,6.1498,6,10,f,1.2,1880,lanthanide,solid,silvery
+65,Tb,Terbium,158.93,8.23,1629.00,3503,156,175,5.8638,6,11,f,1.2,1843,lanthanide,solid,silvery
+66,Dy,Dysprosium,162.50,8.55,1680.00,2840,163,175,5.9389,6,12,f,1.22,1886,lanthanide,solid,silvery
+67,Ho,Holmium,164.93,8.80,1734.00,2993,161,175,6.0215,6,13,f,1.23,1878,lanthanide,solid,silvery
+68,Er,Erbium,167.26,9.07,1802.00,3141,159,175,6.1077,6,14,f,1.24,1843,lanthanide,solid,silvery
+69,Tm,Thulium,168.93,9.32,1818.00,2223,158,175,6.1843,6,15,f,1.25,1879,lanthanide,solid,silvery
+70,Yb,Ytterbium,173.05,6.90,1097.00,1469,170,175,6.2542,6,16,f,1.1,1878,lanthanide,solid,silvery
+71,Lu,Lutetium,174.97,9.84,1925.00,3675,160,175,5.4259,6,17,f,1.27,1907,lanthanide,solid,silvery
+72,Hf,Hafnium,178.49,13.31,2506.00,4876,150,155,6.8251,6,4,d,1.3,1923,transition_metal,solid,gray
+73,Ta,Tantalum,180.95,16.69,3290.00,5731,138,145,7.5496,6,5,d,1.5,1802,transition_metal,solid,gray
+74,W,Tungsten,183.84,19.25,3695.00,5828,146,135,7.8640,6,6,d,2.36,1783,transition_metal,solid,gray
+75,Re,Rhenium,186.21,21.02,3459.00,5869,159,135,7.8335,6,7,d,1.9,1925,transition_metal,solid,silvery
+76,Os,Osmium,190.23,22.61,3306.00,5285,128,130,8.4382,6,8,d,2.2,1803,transition_metal,solid,bluish
+77,Ir,Iridium,192.22,22.56,2719.00,4701,137,135,8.9670,6,9,d,2.20,1803,transition_metal,solid,silvery
+78,Pt,Platinum,195.08,21.45,2041.40,4098,128,135,8.9587,6,10,d,2.28,1735,transition_metal,solid,silvery
+79,Au,Gold,196.97,19.30,1337.33,3129,144,135,9.2255,6,11,d,2.54,6000 BCE,transition_metal,solid,gold
+80,Hg,Mercury,200.59,13.53,234.32,629.88,149,150,10.4375,6,12,d,2.00,1500 BCE,transition_metal,liquid,silvery
+81,Tl,Thallium,204.38,11.85,577.00,1746,148,190,6.1082,6,13,p,1.62,1861,basic_metal,solid,gray
+82,Pb,Lead,207.20,11.34,600.61,2022,147,180,7.4167,6,14,p,2.33,7000 BCE,basic_metal,solid,gray
+83,Bi,Bismuth,208.98,9.79,544.67,1837,146,160,7.2856,6,15,p,2.02,1753,basic_metal,solid,gray
+84,Po,Polonium,209.00,9.20,527.00,1235,146,190,8.4167,6,16,p,2.0,1898,basic_metal,solid,silvery
+85,At,Astatine,210.00,7.00,575.00,610,145,127,9.3,6,17,p,2.2,1940,halogen,solid,dark
+86,Rn,Radon,222.00,9.73,202.00,211.3,145,120,10.7485,6,18,p,2.2,1900,noble_gas,gas,colorless
+87,Fr,Francium,223.00,1.87,300.00,950,260,348,4.0727,7,1,s,0.7,1939,alkali_metal,solid,silvery
+88,Ra,Radium,226.00,5.50,973.00,2010,221,215,5.2784,7,2,s,0.9,1898,alkaline_earth,solid,silvery
+89,Ac,Actinium,227.00,10.07,1323.00,3471,186,195,5.17,7,3,f,1.1,1899,actinide,solid,silvery
+90,Th,Thorium,232.04,11.72,2115.00,5061,180,180,6.3067,7,4,f,1.3,1829,actinide,solid,silvery
+91,Pa,Protactinium,231.04,15.37,1841.00,4300,163,180,5.89,7,5,f,1.5,1913,actinide,solid,silvery
+92,U,Uranium,238.03,19.05,1405.30,4404,175,175,6.1941,7,6,f,1.38,1789,actinide,solid,silvery
+93,Np,Neptunium,237.00,20.25,917.00,4175,175,175,6.2657,7,7,f,1.36,1940,actinide,solid,silvery
+94,Pu,Plutonium,244.00,19.84,913.00,3501,187,175,6.0262,7,8,f,1.28,1940,actinide,solid,silvery
+95,Am,Americium,243.00,13.69,1449.00,2284,180,175,5.9738,7,9,f,1.3,1944,actinide,solid,silvery
+96,Cm,Curium,247.00,13.51,1613.00,3383,169,175,5.9915,7,10,f,1.3,1944,actinide,solid,silvery
+97,Bk,Berkelium,247.00,14.79,1259.00,2900,170,175,6.1979,7,11,f,1.3,1949,actinide,solid,silvery
+98,Cf,Californium,251.00,15.10,1173.00,1743,186,175,6.2817,7,12,f,1.3,1950,actinide,solid,silvery
+99,Es,Einsteinium,252.00,8.84,1133.00,1269,186,175,6.42,7,13,f,1.3,1952,actinide,solid,silvery
+100,Fm,Fermium,257.00,9.70,1125.00,NaN,NaN,175,6.5,7,14,f,1.3,1952,actinide,solid,silvery
+101,Md,Mendelevium,258.00,10.37,1100.00,NaN,NaN,175,6.58,7,15,f,1.3,1955,actinide,solid,silvery
+102,No,Nobelium,259.00,9.90,1100.00,NaN,NaN,175,6.65,7,16,f,1.3,1958,actinide,solid,silvery
+103,Lr,Lawrencium,262.00,15.60,1900.00,NaN,NaN,175,4.9,7,17,f,1.3,1961,actinide,solid,silvery
+104,Rf,Rutherfordium,267.00,23.20,2400.00,5800,157,149,6.0,7,4,d,NaN,1969,transition_metal,solid,NaN
+105,Db,Dubnium,268.00,29.30,NaN,NaN,149,139,6.8,7,5,d,NaN,1970,transition_metal,solid,NaN
+106,Sg,Seaborgium,269.00,35.00,NaN,NaN,143,132,7.9,7,6,d,NaN,1974,transition_metal,solid,NaN
+107,Bh,Bohrium,270.00,37.10,NaN,NaN,141,128,7.9,7,7,d,NaN,1981,transition_metal,solid,NaN
+108,Hs,Hassium,277.00,40.70,NaN,NaN,134,126,8.3,7,8,d,NaN,1984,transition_metal,solid,NaN
+109,Mt,Meitnerium,278.00,37.40,NaN,NaN,129,128,7.9,7,9,d,NaN,1982,transition_metal,solid,NaN
+110,Ds,Darmstadtium,281.00,34.80,NaN,NaN,128,121,8.9,7,10,d,NaN,1994,transition_metal,solid,NaN
+111,Rg,Roentgenium,282.00,28.70,NaN,NaN,121,138,8.7,7,11,d,NaN,1994,transition_metal,solid,NaN
+112,Cn,Copernicium,285.00,23.70,NaN,NaN,122,130,9.9,7,12,d,NaN,1996,transition_metal,gas,NaN
+113,Nh,Nihonium,286.00,16.00,700.00,1400,136,136,7.7,7,13,p,NaN,2003,unknown,solid,NaN
+114,Fl,Flerovium,289.00,14.00,340.00,420,143,NaN,8.3,7,14,p,NaN,1999,unknown,liquid,NaN
+115,Mc,Moscovium,290.00,13.50,700.00,1400,162,NaN,7.7,7,15,p,NaN,2003,unknown,solid,NaN
+116,Lv,Livermorium,293.00,12.90,709.00,1085,175,NaN,8.9,7,16,p,NaN,2000,unknown,solid,NaN
+117,Ts,Tennessine,294.00,7.20,723.00,883,165,NaN,9.1,7,17,p,NaN,2010,unknown,solid,NaN
+118,Og,Oganesson,294.00,5.00,NaN,NaN,157,152,8.9,7,18,p,NaN,2002,unknown,gas,NaN
